@@ -6,3 +6,5 @@
 #### Play against JoJoILMa and WIN!!! if you can.
 
 ![UI of the game](game_UI.png)
+
+<img src="game_UI.png" style="width:500px;height=500px">
